@@ -17,7 +17,7 @@
     "react-dom": "^18"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.19",  <-- THIS IS THE FIX
+    "autoprefixer": "^10.4.19",
     "eslint": "^8",
     "eslint-config-next": "14.2.5",
     "postcss": "^8",
