@@ -15,8 +15,8 @@
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18",
-    "react-tsparticles": "^3.0.3",
-    "tsparticles-slim": "^3.0.3"
+    "react-tsparticles": "^3.12.0",
+    "tsparticles-slim": "^3.12.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.19",
