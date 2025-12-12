@@ -3,8 +3,8 @@ import { useState, useRef, useEffect, useCallback } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import confetti from "canvas-confetti";
 import { Volume2, VolumeX, Heart, MonitorPlay, Moon, Brain, Flame } from "lucide-react";
-import Particles from "react-tsparticles";
-import { loadSlim } from "tsparticles-slim"; // To keep the file size down
+import Particles from "@tsparticles/react";
+import { loadSlim } from "@tsparticles/slim"; // To keep the file size down
 
 // --- CONFIGURATION ---
 const slides = [
