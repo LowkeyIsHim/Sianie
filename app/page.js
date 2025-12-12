@@ -38,6 +38,11 @@ const slides = [
     sub: "Because you deserve to be impressed. Every single day. Ready for your stats?",
     animation: "scale",
   },
+  {
+    text: "Last thing before we begin: this isn’t just a slideshow.",
+    sub: "It’s my attempt to show you how extraordinary you look from my point of view.",
+    animation: "slide",
+  },
 ];
 
 const particlesInit = async (engine) => {
